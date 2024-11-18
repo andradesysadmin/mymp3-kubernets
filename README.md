@@ -3,6 +3,7 @@
 This is my kubernets music app with PHP
 
 ## Steps to install
+Install Docker, Kind, Git and run it: 
 ```bash
 git clone https://github.com/andradesysadmin/mymp3-kubernets
 cd mymp-kubernets
