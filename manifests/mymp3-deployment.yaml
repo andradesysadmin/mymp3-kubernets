@@ -23,7 +23,7 @@
           role: worker
         containers:
           - name: mymp3-contaier
-            image: andradesysadmin/mymp3
+            image: andradesysadmin/mymp3-k8s
             ports:
               - containerPort: 80
             resources:
