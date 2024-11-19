@@ -1,6 +1,6 @@
 # My Music App with Kubernetes ⎈
 
-This is my local music app running with **Kubernetes** and **PHP**.
+This is my local music app with folders/playlists systems running with **Kubernetes** and **PHP**.
 
 ## Prerequisites
 
