@@ -9,8 +9,8 @@ nodes:
   - role: worker
     labels:
       role: worker
-      environment: prod
+      environment: dev
   - role: worker
     labels:
       role: worker
-      environment: prod
+      environment: dev
